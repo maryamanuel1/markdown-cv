@@ -2,8 +2,8 @@
 layout: cv
 title: Mary Amanuel
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mary
+Data Analyst 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
